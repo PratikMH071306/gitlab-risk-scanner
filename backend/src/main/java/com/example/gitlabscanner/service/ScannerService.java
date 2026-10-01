@@ -181,7 +181,7 @@ public class ScannerService {
 						project.webUrl(),
 						"Exposed Secret",
 						"Possible secret matched in file",
-						"HIGH",
+						"Medium",
 						file.path()));
 			}
 		}

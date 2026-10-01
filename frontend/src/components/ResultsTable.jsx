@@ -1,6 +1,6 @@
 const severityClass = {
   HIGH: "text-red-400",
-  MEDIUM: "text-amber-400",
+  Medium: "text-amber-400",
   LOW: "text-slate-300",
 };
 

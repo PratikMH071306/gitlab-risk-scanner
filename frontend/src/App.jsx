@@ -60,7 +60,7 @@ function App() {
               repositories={summary.repositories}
               issues={summary.issues}
               high={countSeverity(results, "HIGH")}
-              medium={countSeverity(results, "MEDIUM")}
+              medium={countSeverity(results, "Medium")}
               low={countSeverity(results, "LOW")}
             />
             <ResultsTable results={results} />
